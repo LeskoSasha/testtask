@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/testtask/static/css/main.7566ae6c.chunk.css",
+    "main.js": "/testtask/static/js/main.116bc821.chunk.js",
+    "main.js.map": "/testtask/static/js/main.116bc821.chunk.js.map",
+    "runtime-main.js": "/testtask/static/js/runtime-main.f9c0985a.js",
+    "runtime-main.js.map": "/testtask/static/js/runtime-main.f9c0985a.js.map",
+    "static/js/2.1e980084.chunk.js": "/testtask/static/js/2.1e980084.chunk.js",
+    "static/js/2.1e980084.chunk.js.map": "/testtask/static/js/2.1e980084.chunk.js.map",
+    "static/js/3.66d52ee0.chunk.js": "/testtask/static/js/3.66d52ee0.chunk.js",
+    "static/js/3.66d52ee0.chunk.js.map": "/testtask/static/js/3.66d52ee0.chunk.js.map",
+    "index.html": "/testtask/index.html",
+    "static/css/main.7566ae6c.chunk.css.map": "/testtask/static/css/main.7566ae6c.chunk.css.map",
+    "static/js/2.1e980084.chunk.js.LICENSE.txt": "/testtask/static/js/2.1e980084.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/testtask/static/media/OpenSans-SemiBold.a16d8201.ttf",
+    "static/media/logo.6ce24c58.svg": "/testtask/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9c0985a.js",
+    "static/js/2.1e980084.chunk.js",
+    "static/css/main.7566ae6c.chunk.css",
+    "static/js/main.116bc821.chunk.js"
+  ]
+}
